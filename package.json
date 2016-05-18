@@ -45,7 +45,7 @@
     "brace"
   ],
   "dependencies": {
-    "brace": "^0.8.0",
+    "brace": "git+https://github.com/donnycrash/brace.git",
     "lodash.isequal": "^4.1.1"
   },
   "peerDependencies": {
